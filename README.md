@@ -1,0 +1,2 @@
+# Modelagem01
+O objetivo dessa atividade é compreender a estrutura e organização de um projeto de animação. Siga os passos abaixo: 1. Crie um repositório no Github para o projeto modelo da atividade; 2. Faça o clone do projeto no seu computador; 2. Siga as instruções e estrutura de pastas indicada na vídeo aula dentro do repositório git. Use o material em anexo para fazer o setup de uma cena inicial; 3. Faça o commit e push do projeto.
